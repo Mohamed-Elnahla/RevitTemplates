@@ -8,7 +8,9 @@ using WixSharp;
 using WixSharp.CommonTasks;
 using WixSharp.Controls;
 
-const string installationDir = @"%AppDataFolder%\Autodesk\Revit\Addins\";
+string ProgramData = Environment.GetEnvironmentVariable("programdata");
+
+string installationDir = ProgramData + @"\Autodesk\Revit\Addins\";
 const string projectName = "Nice3point.Revit.Solution";
 const string outputName = "Nice3point.Revit.Solution";
 const string outputDir = "output";

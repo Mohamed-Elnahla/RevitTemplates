@@ -58,7 +58,6 @@ Global
 		{BBBBBBBB-BBBB-BBBB-BBBB-BBBBBBBBBBBB}.Release R23|Any CPU.ActiveCfg = Release|Any CPU
 		{BBBBBBBB-BBBB-BBBB-BBBB-BBBBBBBBBBBB}.Release R24|Any CPU.ActiveCfg = Release|Any CPU
 		{BBBBBBBB-BBBB-BBBB-BBBB-BBBBBBBBBBBB}.Installer|Any CPU.ActiveCfg = Release|Any CPU
-		{BBBBBBBB-BBBB-BBBB-BBBB-BBBBBBBBBBBB}.Installer|Any CPU.Build.0 = Release|Any CPU
 #endif-->
 	EndGlobalSection
 EndGlobal
